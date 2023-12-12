@@ -1,2 +1,3 @@
 # HouseOfNdinda
-A simple website for a local Ugandan furniture store.
+Mock website for a local Ugandan furniture store built with HTML and Css.
+
